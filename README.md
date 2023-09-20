@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bright-Kumedzro
 - 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning object oriented programming in java 
+- 🌱 I’m currently learning object-oriented programming in Java, web development with React and Node, mobile app development with Flutter and Dart 
 - 💞️ I’m looking to collaborate on software development projects
-- 📫 You can reach me on twitter, LinkedIn & Instagram @Bright Kumedzro.
+- 📫 You can reach me on Twitter, LinkedIn & Instagram @bright_kumedzro.
 
 <!---
 Bright-Kumedzro/Bright-Kumedzro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
